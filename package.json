@@ -1,0 +1,16 @@
+{
+  "name": "intelligent-hall",
+  "version": "1.0.0",
+  "description": "智能展厅",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@gitlab.marchsoft.cn:8022/wangyinghui/intelligent-hall.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

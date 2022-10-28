@@ -1,0 +1,21 @@
+settings:
+  application:
+    mode: dev
+    host: 0.0.0.0
+    # 服务名称
+    name: go_api
+    # 端口号
+    port: 8000 # 服务端口号
+    # 版本
+    version: 0.1.0
+    # 终端TCP IP
+    terminalTcp: 127.0.0.1:12345
+    # 终端HTTP地址
+    # 登录
+    terminalHttpLogin: http://49.234.29.171:8060/mock/11/api/backend_mgt/v2/logon
+    # 终端列表
+    terminalHttpList: http://49.234.29.171:8060/mock/11/api/backend_mgt/v2/termcategory
+    # 获取节目列表
+    terminalQueryList: /mock/11/api/program/query
+    # 播放控制
+    terminalOperateList: /mock/11/api/program/operate
