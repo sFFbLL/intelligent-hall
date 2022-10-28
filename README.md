@@ -1,3 +1,3 @@
 # intelligent-hall
 
-智能展厅
+展厅智能遥控
